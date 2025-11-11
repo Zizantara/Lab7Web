@@ -95,18 +95,18 @@ Gaji: Rp 10.000.000
 
 ### ⚙️ Cara Menjalankan Program
 
-Simpan semua file di dalam folder htdocs (untuk XAMPP) atau www (untuk Laragon).
+1. Simpan semua file di dalam folder htdocs (untuk XAMPP) atau www (untuk Laragon).
 
-Jalankan server lokal melalui XAMPP Control Panel → klik Start pada Apache.
+2. Jalankan server lokal melalui XAMPP Control Panel → klik Start pada Apache.
 
-Buka browser dan akses:
+3. Buka browser dan akses:
 ```
 http://localhost/php_dasar.php
 http://localhost/latihan2.php
 http://localhost/praktikum.php
 ```
 
-Isi form sesuai instruksi dan amati hasilnya di halaman web.
+4. Isi form sesuai instruksi dan amati hasilnya di halaman web.
 
 🧠 Konsep yang Dipelajari
 
