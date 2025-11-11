@@ -110,11 +110,11 @@ Isi form sesuai instruksi dan amati hasilnya di halaman web.
 
 🧠 Konsep yang Dipelajari
 
-✅ Struktur dasar file PHP
-✅ Variabel dan tipe data
-✅ Metode `GET` dan `POST`
-✅ Operator aritmatika
-✅ Struktur kontrol (`if`, `switch`)
-✅ Perulangan (`for`, `while`, `do while`)
-✅ Penggunaan objek `DateTime()`
-✅ Menampilkan output dengan format yang rapi
+- ✅ Struktur dasar file PHP
+- ✅ Variabel dan tipe data
+- ✅ Metode `GET` dan `POST`
+- ✅ Operator aritmatika
+- ✅ Struktur kontrol (`if`, `switch`)
+- ✅ Perulangan (`for`, `while`, `do while`)
+- ✅ Penggunaan objek `DateTime()`
+- ✅ Menampilkan output dengan format yang rapi
