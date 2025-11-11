@@ -35,13 +35,13 @@ $nim = '312410398';
 
 File kedua (`phpdasar2.php`) memperlihatkan:
 
-Form input dengan metode POST
+- Form input dengan metode POST
 
-Perhitungan gaji dan pajak
+- Perhitungan gaji dan pajak
 
-Kondisi IF dan SWITCH
+- Kondisi IF dan SWITCH
 
-Perulangan For, While, Do-While
+- Perulangan For, While, Do-While
 
 Contoh logika sederhana:
 ```
