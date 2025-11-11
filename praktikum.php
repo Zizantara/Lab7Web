@@ -29,12 +29,10 @@
         $tanggal_lahir = $_POST['tanggal_lahir'];
         $pekerjaan = $_POST['pekerjaan'];
 
-        // Hitung umur
         $tanggal_lahir_obj = new DateTime($tanggal_lahir);
         $hari_ini = new DateTime();
         $umur = $hari_ini->diff($tanggal_lahir_obj)->y;
 
-        // Tentukan gaji berdasarkan pekerjaan
         switch ($pekerjaan) {
             case "Programmer":
                 $gaji = 10000000;
