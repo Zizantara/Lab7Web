@@ -12,19 +12,22 @@ Proyek ini berisi kumpulan contoh kode PHP dasar untuk memahami konsep-konsep fu
 Setiap file dibuat secara bertahap untuk membantu pemula memahami logika dan sintaks PHP dengan mudah.
 
 ### 📂 Struktur File
-File	Deskripsi
 `php_dasar.php`	Menampilkan teks dengan `echo`, penggunaan variabel, dan penerapan `$_GET`
+
 `latihan2.php`	Contoh form input `POST`, operator aritmatika, kondisi `if` dan `switch`, serta perulangan `for`, `while`, `do while`
+
 `praktikum.php`	Form input data diri dengan perhitungan umur dan gaji berdasarkan pekerjaan
-💡 Penjelasan Fitur Utama
+
+### 💡 Penjelasan Fitur Utama
 1️⃣ Output Dasar dan Variabel
 
-File pertama (phpdasar1.php) memperkenalkan konsep dasar:
+File pertama (php_dasar.php) memperkenalkan konsep dasar:
 
+```
 echo "Hello World";
 $nama = 'Zizantara Arzeva Cakra Kahana';
 $nim = '312410398';
-
+```
 
 ➡️ Menampilkan teks dan data menggunakan variabel PHP serta menampilkan nilai dari parameter $_GET.
 
